@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image:url(./images/mountain-ranges-5938639_1280.jpg);
+    background-image:url(./Images/mountain-ranges-5938639_1280.jpg);
     background-repeat: no-repeat;
     background-size:100vw 100vh; 
     display: flex;
@@ -13,7 +13,7 @@ body{
     align-items: center;
 }
 .box{
-    color:rgb(186 255 194);
+    color:rgb(255 224 0);
     font-size: 30px;
     text-align: center;
 }
