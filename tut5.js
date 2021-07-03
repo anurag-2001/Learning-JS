@@ -2,11 +2,10 @@
 // Mutating: Changing or Modifying
 
 let pets = [
-    {name:"Meow", species:"Cat", age: 2}
-    {name:"Bark", species:"dog", age: 3}
+    {name:"Meow", species:"Cat", age: 2},
+    {name:"Bark", species:"dog", age: 3},
     {name:"Purrsloud", species:"Cat", age: 8}
 ]
-
 console.log(pets.push({name:"Puppy", species:"dog", age: 1}))
 
 let ourTest = pets.map(nameOnly)   //array.map:--> Simply returns new value in an arrary 
