@@ -15,5 +15,5 @@ function createItem(x){
 }
 
 function deleteItem(deleteMe){
-    deleteMe.parentElement.remove();  //deletes the list inside the parent Element
+    deleteMe.parentElement.remove();   //deletes the list inside the parent Element
 }
