@@ -2,6 +2,9 @@
     padding-top: 3em;
     text-align: center;
 }
+#result{
+    font-size: 30px;
+}
 .row{
     width: 302px;
     margin: 0 auto;
