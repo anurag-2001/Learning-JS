@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: rgb(154 177 176);
+    background-color: white;
     background-size:100vw 100vh; 
     display: flex;
     justify-content: center;
