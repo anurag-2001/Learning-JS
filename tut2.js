@@ -1,6 +1,6 @@
 //OBJECTS
 
-let cat = {
+let cat1 = {
     name: "Sparky",
     age: 12,
     meow(){  //WE can also declare a function inside an OBJECT
@@ -17,8 +17,8 @@ let cat = {
     name: "Sparky",
     age: 12,
     favFood:{
-        name1: "fish";
-        name2: "meat";
+        name1: "fish",
+        name2: "meat"
     }
 }
 
