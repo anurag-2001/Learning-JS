@@ -8,7 +8,7 @@ let cat1 = {
     }
 }
 
-cat.meow(2);  //This is the way how we should call a function inside an object
+cat.meow(3);  //This is the way how we should call a function inside an object
 
 //We can also add another object inside an existing object
 // ***EXAMPLE*** //
